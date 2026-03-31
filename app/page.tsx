@@ -6,9 +6,9 @@ import TestimonialsCarousel from "@/components/TestimonialsCarousel";
 import MapSection from "@/components/MapSection";
 import { Wheat, Croissant, CakeSlice, ShoppingBag } from "lucide-react";
 
-import brands from "../../content/brands.json";
-import reviews from "../../content/reviews.json";
-import address from "../../content/address.json";
+import brands from "@/content/brands.json";
+import reviews from "@/content/reviews.json";
+import address from "@/content/address.json";
 
 const SERVICES = [
   {

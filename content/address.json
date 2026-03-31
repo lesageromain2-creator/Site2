@@ -1,0 +1,18 @@
+{
+  "name": "La Mie Dorée",
+  "address": "23 Rue de la Guillotière, 69007 Lyon",
+  "lat": 45.753,
+  "lng": 4.842,
+  "phone": "04 78 58 22 10",
+  "email": "contact@lamiedoree-lyon.fr",
+  "hours": {
+    "lundi": "6:30–19:30",
+    "mardi": "6:30–19:30",
+    "mercredi": "6:30–19:30",
+    "jeudi": "6:30–19:30",
+    "vendredi": "6:30–19:30",
+    "samedi": "6:30–19:30",
+    "dimanche": "7:00–13:00"
+  }
+}
+

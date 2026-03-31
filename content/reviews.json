@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Martine Giraud",
+    "role": "Cliente fidèle depuis 8 ans",
+    "text": "Le pain au levain de La Mie Dorée est tout simplement le meilleur de Lyon. Une croûte dorée, une mie aérée, un goût incomparable. J'y passe chaque matin depuis l'ouverture.",
+    "rating": 5,
+    "date": "2026-03-20"
+  },
+  {
+    "name": "Éric Fontaine",
+    "role": "Habitant de la Guillotière",
+    "text": "Les croissants du matin sont un pur bonheur. Feuilletés, beurrés, encore tièdes… Impossible de résister aux pains au chocolat pour les enfants. Un vrai artisan comme on n'en fait plus.",
+    "rating": 5,
+    "date": "2026-03-12"
+  },
+  {
+    "name": "Claire Beaumont",
+    "role": "Adepte du Click & Collect",
+    "text": "J'utilise le Click & Collect tous les week-ends. Je commande le vendredi soir, je récupère le samedi matin. Les tartes aux pralines et le pain de campagne sont toujours parfaits.",
+    "rating": 5,
+    "date": "2026-02-28"
+  },
+  {
+    "name": "Antoine Morel",
+    "role": "Pâtissier amateur",
+    "text": "La galette des rois de La Mie Dorée est une merveille de feuilletage. Les gâteaux d'anniversaire sur commande sont magnifiques et délicieux. Un savoir-faire rare.",
+    "rating": 4,
+    "date": "2026-02-15"
+  },
+  {
+    "name": "Sophie Durand",
+    "role": "Maman du quartier",
+    "text": "Mes enfants adorent les brioches au sucre et les chaussons aux pommes. L'accueil est toujours chaleureux, le personnel connaît nos prénoms. C'est notre boulangerie de cœur.",
+    "rating": 5,
+    "date": "2026-01-30"
+  }
+]
+

@@ -6,7 +6,7 @@ import MapSection from "@/components/MapSection";
 import { api } from "@/lib/api";
 import { Phone, Mail, MapPin, Clock } from "lucide-react";
 
-import address from "../../../content/address.json";
+import address from "@/content/address.json";
 
 export default function ContactPage() {
   const [form, setForm] = useState({ name: "", email: "", phone: "", message: "" });

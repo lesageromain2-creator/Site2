@@ -1,0 +1,9 @@
+[
+  { "name": "Minoterie Foricher", "tagline": "Farines françaises", "color": "#D4A373", "initials": "MF" },
+  { "name": "Beurre Charentes-Poitou", "tagline": "AOP depuis 1979", "color": "#E8B84B", "initials": "BC" },
+  { "name": "Chocolaterie Valrhona", "tagline": "Grand cru de cacao", "color": "#6B4226", "initials": "CV" },
+  { "name": "Ferme des Combrailles", "tagline": "Œufs plein air", "color": "#A0785A", "initials": "FC" },
+  { "name": "Fruits Rhône-Alpes", "tagline": "Fruits de saison locaux", "color": "#8B9F56", "initials": "FR" },
+  { "name": "Sel de Guérande", "tagline": "Récolte artisanale", "color": "#9CAEA9", "initials": "SG" }
+]
+
