@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-primary: #D4A373;
+  --color-secondary: #6B4226;
+  --color-accent: #FEFAE0;
+  --color-cream: #FAF7F2;
+  --color-dark: #3C2A14;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--color-cream);
+  color: var(--color-dark);
+}
+
+::selection {
+  background-color: #D4A37340;
+  color: var(--color-dark);
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
